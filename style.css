@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(90deg, rgb(186, 108, 57), rgb(180, 164, 56));
+}
+.baslik {
+    text-align: center;
+    margin: 30px;
+    font-family: 'Comfortaa', cursive;    
+}
+.navbar-list {
+    text-align: center;
+    list-style-type: none;
+    font-family: 'Comfortaa', cursive;
+    line-clamp: 100px;   
+}
+
+.hr {
+    border-top: 3px solid #2d2929;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+span {
+    margin: 80px;   
+}
+.p1 {
+    text-align:center;
+    margin: 50px 100px 50px;
+    font-family: 'Montserrat', sans-serif;     
+}
+.img {
+    max-width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;    
+}
+.col-md-4 {
+    margin-top: 30px;
+
+}
+
+a {
+    color: black;
+}
+
+footer {
+    bottom: 0;
+}
+
+
+
